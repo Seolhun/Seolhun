@@ -4,11 +4,11 @@ I build [Firstage](https://firstage.ai), a place-based home for everyday records
 
 ### Editors are the thread
 
-My first product was marketing automation, and the part I cared about was its editor. It's been editors ever since: rich text, web builders, course builders, photobook editors. Lexical for text, Konva for canvas.
+An editor is where a person meets their own experience and gives it form. I have built them my whole career, under different names: rich text, web builders, course builders, photobook editors. My first product called itself marketing automation; it was an editor.
 
 > Generating things got cheap. Having been somewhere did not.
 
-Editors are where lived experience takes shape. A walk becomes a page, and one day a book on a shelf.
+Form is what lasts.
 
 ### How I work
 
