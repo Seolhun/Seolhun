@@ -1,14 +1,21 @@
-<img src="assets/logo.svg" align="right" width="88" alt="Firstage" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
+  <img src="assets/banner-light.svg" width="100%" alt="Hooney (Seolhun), founder of Firstage" />
+</picture>
 
-### Hooney (Seolhun)
+Product engineer. I build services made to last, from first idea to running business.
 
-Founder of [Firstage](https://firstage.ai) · Product Engineer
+[Firstage](https://firstage.ai) is a shared home for the everyday lives of individuals, couples and families. Photos, places, time and the people you were with pile up in one record, and years later that record can become a book you hold. I designed and built it end to end and now run it with one backend and infrastructure engineer: one TypeScript monorepo, Next.js on Cloudflare Workers, NestJS and PostgreSQL on a Kubernetes (K3s) cluster we operate ourselves, and Capacitor and Tauri for the apps.
 
-I build services made to last, from first idea to running business.
-
-Firstage is a shared home for the everyday lives of individuals, couples and families. Photos, places, time and the people you were with pile up in one record, and years later that record can become a book you hold. I designed and built it end to end and now run it with one backend and infrastructure engineer: one TypeScript monorepo, Next.js on Cloudflare Workers, NestJS and PostgreSQL on a Kubernetes (K3s) cluster we operate ourselves, and Capacitor and Tauri for the apps.
+`TypeScript` `Next.js` `NestJS` `PostgreSQL` `Kubernetes (K3s)` `Cloudflare Workers` `Capacitor` `Tauri`
 
 ### Now building
+
+<p>
+  <a href="https://firstage.ai"><img src="https://hunseol.com/work/firstage/cover-768.webp" width="32%" alt="Firstage home page with scattered travel photos" /></a>
+  <a href="https://round.events"><img src="https://hunseol.com/work/round/cover-768.webp" width="32%" alt="ROUND bracket and registration page" /></a>
+  <a href="https://tacticframe.com"><img src="https://hunseol.com/work/tacticframe/cover-768.webp" width="32%" alt="TacticFrame football tactics board" /></a>
+</p>
 
 - [Firstage](https://firstage.ai): photos, places and the people you were with, kept together. Web live; iOS app and photobook printing in testing.
 - [Social Finder](https://catalog.firstage.ai/socials): a desktop app that keeps your Instagram and Threads posts on your own computer. Available for Windows and macOS.

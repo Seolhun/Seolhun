@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="t d">
+  <title id="t">Hooney, founder of Firstage</title>
+  <desc id="d">Three photo cards joined by a dotted route that ends at a map pin and a small book.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3E5560" />
+      <stop offset="1" stop-color="#6B5B48" />
+    </linearGradient>
+    <linearGradient id="sea" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3F5A55" />
+      <stop offset="1" stop-color="#2F4A44" />
+    </linearGradient>
+    <linearGradient id="dusk" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6E4A43" />
+      <stop offset="1" stop-color="#8C5246" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="360" rx="28" fill="#161514" />
+  <text x="72" y="196" font-family="'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="112" font-weight="700" letter-spacing="-3" fill="#F3EFEA">Hooney</text>
+  <text x="76" y="252" font-family="'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="500" fill="#A39C94">Founder of <tspan fill="#F0645B" font-weight="700">Firstage</tspan></text>
+  <path d="M742 312 C 820 340, 900 300, 960 318 S 1060 300, 1098 262" fill="none" stroke="#F0645B" stroke-width="3" stroke-linecap="round" stroke-dasharray="2 12" opacity="0.75" />
+  <g transform="rotate(-7 760 170)">
+    <rect x="688" y="70" width="148" height="186" rx="14" fill="#24211F" stroke="#3A3532" />
+    <rect x="700" y="82" width="124" height="128" rx="8" fill="url(#sky)" />
+    <path d="M700 186 L740 150 L768 172 L792 156 L824 184 L824 210 L700 210 Z" fill="#5E6B50" opacity="0.9" />
+    <rect x="700" y="222" width="70" height="7" rx="3.5" fill="#3E3934" />
+  </g>
+  <g transform="rotate(5 900 205)">
+    <rect x="826" y="110" width="148" height="186" rx="14" fill="#24211F" stroke="#3A3532" />
+    <rect x="838" y="122" width="124" height="128" rx="8" fill="url(#sea)" />
+    <circle cx="930" cy="152" r="12" fill="#FFF6E5" opacity="0.9" />
+    <rect x="838" y="262" width="86" height="7" rx="3.5" fill="#3E3934" />
+  </g>
+  <g transform="rotate(-3 1030 160)">
+    <rect x="956" y="62" width="148" height="186" rx="14" fill="#24211F" stroke="#3A3532" />
+    <rect x="968" y="74" width="124" height="128" rx="8" fill="url(#dusk)" />
+    <path d="M968 202 L1004 160 L1030 182 L1060 150 L1092 186 L1092 202 Z" fill="#B57E72" opacity="0.35" />
+    <rect x="968" y="214" width="58" height="7" rx="3.5" fill="#3E3934" />
+  </g>
+  <g transform="translate(1098 262)">
+    <path d="M0 -38 C -15 -38, -24 -27, -24 -15 C -24 3, 0 18, 0 18 C 0 18, 24 3, 24 -15 C 24 -27, 15 -38, 0 -38 Z" fill="#E44F47" />
+    <circle cx="0" cy="-15" r="8" fill="#FFFFFF" />
+  </g>
+  <g transform="translate(1020 292) rotate(-4)">
+    <rect x="0" y="0" width="64" height="44" rx="5" fill="#E9E2D8" />
+    <rect x="6" y="0" width="4" height="44" fill="#C9C0B4" />
+    <rect x="18" y="12" width="34" height="4" rx="2" fill="#2E2A27" opacity="0.8" />
+    <rect x="18" y="21" width="22" height="4" rx="2" fill="#2E2A27" opacity="0.5" />
+  </g>
+</svg>
