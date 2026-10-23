@@ -11,12 +11,6 @@ Product engineer. I build services made to last, from first idea to running busi
 
 ### Now building
 
-<p>
-  <a href="https://firstage.ai"><img src="https://hunseol.com/work/firstage/cover-768.webp" width="32%" alt="Firstage home page with scattered travel photos" /></a>
-  <a href="https://round.events"><img src="https://hunseol.com/work/round/cover-768.webp" width="32%" alt="ROUND bracket and registration page" /></a>
-  <a href="https://tacticframe.com"><img src="https://hunseol.com/work/tacticframe/cover-768.webp" width="32%" alt="TacticFrame football tactics board" /></a>
-</p>
-
 - [Firstage](https://firstage.ai): photos, places and the people you were with, kept together. Web live; iOS app and photobook printing in testing.
 - [Social Finder](https://catalog.firstage.ai/socials): a desktop app that keeps your Instagram and Threads posts on your own computer. Available for Windows and macOS.
 - [ROUND](https://round.events): brackets, registration and results for small community tournaments. Prelaunch preview.
@@ -27,6 +21,11 @@ I also write [Hooney Notes](https://hunseol.com) about work, AI and running a sm
 ### Editors are the thread
 
 An editor is where a person meets their own experience and gives it form. I have built them my whole career, under different names: a mention editor inside a support chat, a page builder for a global awards show, a product builder for a furniture catalog, and now a canvas engine that turns photos into printed books.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/editing-engines-dark.png" />
+  <img src="assets/editing-engines-light.png" width="100%" alt="Products (Dashboard and Social Finder, Firstage Journey, ROUND and Intl) depend on four independent engines (Grids and Kuery, Canvas Builder, Editors, CMS), which sit on two shared libraries: a typed store with undo history and a Lexical editor kernel" />
+</picture>
 
 > Generating things got cheap. Having been somewhere did not.
 
