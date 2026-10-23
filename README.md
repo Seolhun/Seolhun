@@ -10,12 +10,10 @@ Firstage is a shared home for the everyday lives of individuals, couples and fam
 
 ### Now building
 
-| Service | What it is | Where it stands |
-| --- | --- | --- |
-| [Firstage](https://firstage.ai) | Photos, places and the people you were with, kept together | Web live; iOS app and photobook printing in testing |
-| [Social Finder](https://catalog.firstage.ai/socials) | A desktop app that keeps your Instagram and Threads posts on your own computer | Available for Windows and macOS |
-| [ROUND](https://round.events) | Brackets, registration and results for small community tournaments | Prelaunch preview |
-| [TacticFrame](https://tacticframe.com) | A football tactics board that runs in the browser, no account needed | Live |
+- [Firstage](https://firstage.ai): photos, places and the people you were with, kept together. Web live; iOS app and photobook printing in testing.
+- [Social Finder](https://catalog.firstage.ai/socials): a desktop app that keeps your Instagram and Threads posts on your own computer. Available for Windows and macOS.
+- [ROUND](https://round.events): brackets, registration and results for small community tournaments. Prelaunch preview.
+- [TacticFrame](https://tacticframe.com): a football tactics board that runs in the browser, no account needed. Live since September 2026.
 
 I also write [Hooney Notes](https://hunseol.com) about work, AI and running a small company.
 
